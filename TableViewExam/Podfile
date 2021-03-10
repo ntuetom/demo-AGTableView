@@ -1,0 +1,16 @@
+
+use_frameworks!
+
+platform :ios, '10.0'
+
+workspace 'ExamProject'
+
+def shared_pods
+    project 'TableViewExam.xcodeproj'
+    pod 'SnapKit'
+end
+
+target 'TableViewExam' do
+    shared_pods
+end
+
