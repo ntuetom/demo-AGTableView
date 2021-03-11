@@ -21,6 +21,6 @@
 </p>
 
 <p align="left">
-<img src=https://drive.google.com/uc?export=view&id=1LNENQtOquXubPwEYcf3ew6IwJxM title="H" width="450px" height="975px">
+<img src=https://drive.google.com/uc?export=view&id=1LNENQtOquXubPwEYcf3ew6IwJxM-tjwf title="H" height="450px" width="975px">
 > 圖為橫螢幕
 </p>
